@@ -168,7 +168,7 @@ p>img{
 
 .gitlogo{
 	position: absolute;
-	top: 430px;
+	top: 440px;
 	left: 400px;
 	border: 2px solid red;
 
@@ -176,14 +176,14 @@ p>img{
 
 .linklogo{
 	position: absolute;	
-	top: 430px;
+	top: 440px;
 	left: 630px;
 	border: 2px solid red;
 
 }
 
 .resumelogo{
-	top:430px;
+	top:440px;
 	left: 860px;
 	border: 2px solid red;
 	position: absolute;
